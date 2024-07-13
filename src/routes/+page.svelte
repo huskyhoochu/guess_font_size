@@ -154,7 +154,7 @@
 	<main class="flex flex-grow flex-col items-center justify-center p-4">
 		<div class="mb-8 flex items-center">
 			<div
-				class="relative mr-4 flex h-64 w-64 items-center justify-center overflow-hidden rounded-lg bg-primary shadow-lg"
+				class="relative mr-4 flex h-32 w-32 items-center justify-center overflow-hidden rounded-lg bg-primary shadow-lg"
 				in:fly={{ y: -20, duration: 500 }}
 			>
 				<span
