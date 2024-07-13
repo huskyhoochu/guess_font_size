@@ -146,6 +146,11 @@
 		/>
 	{/if}
 
+	<p>
+		AI한테 시켜서 20분만에 만들어봤습니다. 막상 만들어보니 너무 어렵네요!! 2지선다로 줄여야 할 것
+		같아요. 그리고 저희 제품인 폰트 스케일 상품의 정교한 스크린샷이 있다면 컴포넌트로 만든
+		'견본크기' 박스를 대체할 수 있지 않을까 싶습니다.
+	</p>
 	<main class="flex flex-grow flex-col items-center justify-center p-4">
 		<div class="mb-8 flex items-center">
 			<div
